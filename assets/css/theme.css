@@ -1,0 +1,26 @@
+:root {
+
+    /* colors*/
+    --primary: #039F4E;
+    /* --secondary: */
+    --black: #000000;
+    --dark: #0A0A0A;
+    --gray-light: #7B7D7C;
+    --white: #ffffff;
+    --white-light: #f7fcf9;
+    --gray: #F2F2F2;
+
+}
+
+.bg-primary {
+    background-color: var(--primary);
+    color: var(--white) ;
+}
+
+.text-primary {
+    color: var(--primary)
+}
+
+h4 {
+    color: var(--primary);
+}
